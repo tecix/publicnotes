@@ -5,5 +5,5 @@
 -- List of color names: https://semantic-ui.com/usage/theming.html#sitewide-defaults
 , theme = "olive"
 -- This is used in the "edit" button
-, editUrl = Some "https://tecix.github.io/publicnotes/edit/master/"
+, editUrl = Some "https://github.com/tecix/publicnotes/edit/master/"
 }
