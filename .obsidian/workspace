@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "e182e8235d8b14f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "62d64697b0f5168e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "FU Money.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf7972f70d7cfad0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c75aafaeba3823df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d118689fcea0e325",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2cc81b58d7cc5df5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6fed0235d325e798",
+    "type": "split",
+    "children": [
+      {
+        "id": "65e0da205599b690",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7084fffbb937b7ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FU Money.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "62d64697b0f5168e",
+  "lastOpenFiles": [
+    "FU Money.md",
+    "index.md",
+    "README.md"
+  ]
+}
