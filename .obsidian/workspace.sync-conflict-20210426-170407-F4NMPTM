@@ -18,7 +18,7 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8676fa4b194585f3",
+    "id": "5f33184c829af3ee",
     "type": "mobile-drawer",
     "children": [
       {
@@ -47,7 +47,7 @@
     ]
   },
   "right": {
-    "id": "f37e50a68c396170",
+    "id": "57d997f8ac48e41e",
     "type": "mobile-drawer",
     "children": [
       {
@@ -71,9 +71,9 @@
   },
   "active": "62d64697b0f5168e",
   "lastOpenFiles": [
-    "Tets sync.md",
+    "Untitled.md",
     "FU Money.md",
-    "README.md",
-    "index.md"
+    "index.md",
+    "README.md"
   ]
 }

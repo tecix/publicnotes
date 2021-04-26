@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tets sync.md",
+            "file": "FU Money.md",
             "mode": "source"
           }
         }
@@ -18,7 +18,7 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8676fa4b194585f3",
+    "id": "3d1bff0d80c66606",
     "type": "mobile-drawer",
     "children": [
       {
@@ -47,7 +47,7 @@
     ]
   },
   "right": {
-    "id": "f37e50a68c396170",
+    "id": "a7136aa471546530",
     "type": "mobile-drawer",
     "children": [
       {
@@ -56,7 +56,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tets sync.md",
+            "file": "FU Money.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -71,9 +71,8 @@
   },
   "active": "62d64697b0f5168e",
   "lastOpenFiles": [
-    "Tets sync.md",
     "FU Money.md",
-    "README.md",
-    "index.md"
+    "index.md",
+    "README.md"
   ]
 }

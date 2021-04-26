@@ -6,3 +6,5 @@ Sure, I’m here to help people, but I’m also here to make money.
 You’ll become effective only by being selective
 
 How you use your time ultimately determines how much money you make.
+
+Hi I'm I sync?
