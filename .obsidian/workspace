@@ -18,73 +18,56 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bf7972f70d7cfad0",
-    "type": "split",
+    "id": "e2aaff37761df3e4",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "c75aafaeba3823df",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d118689fcea0e325",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "2cc81b58d7cc5df5",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "file-explorer",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "search",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
-    ],
-    "direction": "horizontal",
-    "width": 300
+    ]
   },
   "right": {
-    "id": "6fed0235d325e798",
-    "type": "split",
+    "id": "ef18adfea7943569",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "65e0da205599b690",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7084fffbb937b7ad",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "FU Money.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "backlink",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "FU Money.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
-    ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    ]
   },
   "active": "62d64697b0f5168e",
   "lastOpenFiles": [
